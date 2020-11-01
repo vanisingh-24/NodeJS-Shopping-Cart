@@ -1,42 +1,42 @@
 {
-    "music": [
+    "items": [
         {
             "id": 1,
-            "name": "Album 1",
-            "price": 1299,
-            "imgName": "Album1.png"
+            "name": "Mi Smart Band",
+            "price": 2498,
+            "imgName": "img1.jpg"
         },
         {
             "id": 2,
-            "name": "Album 2",
-            "price": 1499,
-            "imgName": "Album2.png"
+            "name": "Apple iPad Mini",
+            "price": 31900,
+            "imgName": "img2.jpg"
         },
         {
             "id": 3,
-            "name": "Album 3",
-            "price": 999,
-            "imgName": "Album3.png"
+            "name": "Dell G3 3500 Gaming Laptop",
+            "price": 45300,
+            "imgName": "img3.jpg"
         },
         {
             "id": 4,
-            "name": "Album 4",
-            "price": 1999,
-            "imgName": "Album4.png"
+            "name": "Canon EOS 1500D",
+            "price": 24990,
+            "imgName": "img4.jpg"
         }
     ],
     "merch": [
         {
             "id": 5,
-            "name": "T-Shirt",
+            "name": "OnePlus Bullets Wireless",
             "price": 1999,
-            "imgName": "Shirt.png"
+            "imgName": "img5.jpg"
         },
         {
             "id": 6,
-            "name": "Coffee Cup",
-            "price": 699,
-            "imgName": "Coffee.png"
+            "name": "Samsung Galaxy M51 Phone Case",
+            "price": 300,
+            "imgName": "img6.jpg"
         }
     ]
 }
